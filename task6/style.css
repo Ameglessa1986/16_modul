@@ -1,0 +1,16 @@
+body {
+    font-size: 35px;
+    }
+  
+  
+  p {
+     text-align: center;
+   text-decoration: dashed;
+   color: blue;
+   padding-top: 40px;
+  }
+  a, header {
+    text-align:center;
+    padding-top: 50px;
+    color: orangered;
+    }

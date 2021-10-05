@@ -1,0 +1,40 @@
+body {
+  font-size: 35px;
+  }
+
+
+p {
+   text-align: center;
+ text-decoration: dashed;
+ color: blue;
+}
+
+header {
+  text-align: center;
+  padding-top: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+#select_id {
+  font-size: 20px;
+  color:#e6eee9;
+  background-color:#2f34c8;
+  margin-left: 470px;
+  margin-top:20px;
+}
+
+#btn_id {
+  font-size: 19px;
+  color:#0c1d1d;
+   background-color:#eac2e6;
+}
+
+table {
+  width: 300px; 
+  border: 3px solid #293ede; 
+  margin: auto; 
+  margin-top: 15px;
+}
